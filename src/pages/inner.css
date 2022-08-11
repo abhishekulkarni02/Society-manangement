@@ -1,0 +1,22 @@
+.Worker {
+    min-height: 100vh;
+    text-align: center;
+    background-color: #1d6063;
+    color: white;
+    padding:20px;
+  }
+  
+  
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
